@@ -1,6 +1,5 @@
 # Folders
 **/node_modules
 
-# Files
-/ecommerceapi/package-lock.json
-/ecommerceapi/.env
+package-lock.json
+.env
