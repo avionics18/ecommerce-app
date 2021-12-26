@@ -1,6 +1,6 @@
 import { Icon } from "@iconify/react";
 
-const Login = ({ btnText, btnClasses }) => {
+const LoginBtn = ({ btnText, btnClasses }) => {
   return (
     <button
       className={btnClasses}
@@ -12,4 +12,4 @@ const Login = ({ btnText, btnClasses }) => {
   );
 };
 
-export default Login;
+export default LoginBtn;

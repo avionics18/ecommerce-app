@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+/* TippyJs */
 .tippy-box {
-  @apply rounded-md p-1 !important;
+  @apply border-none rounded-md shadow-md p-1 !important;
+}
+
+/* Styles */
+.brand-logo {
+  -webkit-clip-path: polygon(20% 0, 80% 0, 100% 100%, 0% 100%);
+  clip-path: polygon(20% 0, 80% 0, 100% 100%, 0% 100%);
+  left: 50%;
+  transform: translateX(-50%);
+  top: -50px;
 }

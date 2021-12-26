@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@ecomo/components/*": ["./src/components/*"],
+      "@ecomo/pages/*": ["./src/pages/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}

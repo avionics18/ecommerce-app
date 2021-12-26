@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import { Icon } from "@iconify/react";
 
 const SocialIcons = () => {
@@ -25,7 +26,7 @@ const SocialIcons = () => {
         href="#"
         className="w-6 h-6 flex justify-center items-center border border-yellow-200 hover:border-white rounded-full text-yellow-200 hover:text-white transition-all"
       >
-        <Icon icon="fe:instagram" />
+        <Icon icon="ph:instagram-logo-bold" />
       </a>
     </div>
   );
