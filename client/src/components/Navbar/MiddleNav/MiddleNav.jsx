@@ -19,7 +19,7 @@ const MiddleNav = () => {
               <Icon icon="ant-design:dropbox-circle-filled" width="60" />
             </p>
             <h1 className="text-2xl text-center uppercase font-serif">
-              <span className="font-bold">EC</span>OMO
+              <span className="font-bold">EC</span>OMO.
             </h1>
           </div>
           <div className="features flex items-center space-x-3 text-gray-700">
